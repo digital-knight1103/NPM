@@ -1,0 +1,26 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "little project to learn npm and npm script",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digital-knight1103/NPM.git"
+  },
+  "author": "Digital_knight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digital-knight1103/NPM/issues"
+  },
+  "homepage": "https://github.com/digital-knight1103/NPM#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "nodemon": "^2.0.15"
+  }
+}
